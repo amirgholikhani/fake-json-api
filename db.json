@@ -3,15 +3,12 @@
     {
       "id": 1,
       "title": "Ford",
-      "description": "this is beautiful Car",
-      "colors": [
-        "blue", "red", "green"]
+      "description": "this is beautiful Car"
     },
     {
       "id": 2,
       "title": "Benz",
-      "description": "this is a car with best performance",
-      "colors": ["black", "white"]
+      "description": "this is a car with best performance"
     }
   ],
   "profile": {
