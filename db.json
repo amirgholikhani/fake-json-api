@@ -1,17 +1,33 @@
 {
-  "cars": [
+  "persons": [
     {
       "id": 1,
-      "title": "Ford",
-      "description": "this is beautiful Car"
+      "name": "Amir",
+      "description": "I am a FrontEnd Developer",
+      "img": "/public/images/amir.jpg"
     },
     {
       "id": 2,
-      "title": "Benz",
-      "description": "this is a car with best performance"
+      "name": "Hamid",
+      "description": "He is BackEnd Developer",
+      "img": "/public/images/hamid.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hossein",
+      "description": "He is FullStack Developer",
+      "img": "/public/images/hossein.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ali",
+      "description": "He is FrontEnd Developer",
+      "img": "/public/images/ali.jpg"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Amir Gholikhani",
+    "job": "FrontEnd Developer",
+    "age": 30
   }
 }
