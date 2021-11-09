@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Amir",
       "description": "I am a FrontEnd Developer",
-      "img": "/public/images/amir.jpg"
+      "img": "/assets/images/amir.jpg"
     },
     {
       "id": 2,
       "name": "Hamid",
       "description": "He is BackEnd Developer",
-      "img": "/public/images/hamid.jpg"
+      "img": "/assets/images/hamid.jpg"
     },
     {
       "id": 3,
       "name": "Hossein",
       "description": "He is FullStack Developer",
-      "img": "/public/images/hossein.jpg"
+      "img": "/assets/images/hossein.jpg"
     },
     {
       "id": 4,
       "name": "Ali",
       "description": "He is FrontEnd Developer",
-      "img": "/public/images/ali.jpg"
+      "img": "/assets/images/ali.jpg"
     }
   ],
   "profile": {
