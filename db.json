@@ -43,6 +43,15 @@
       "category": "Computer device",
       "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
       "rating": { "rate": 4.9, "count": 90 }
+    },
+    {
+      "id": 3,
+      "title": "Book",
+      "price": 150.00,
+      "description": "Harry Potter",
+      "category": "Novels",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": { "rate": 4.8, "count": 110 }
     }
   ],
   "profile": {
