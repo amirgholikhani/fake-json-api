@@ -61,6 +61,15 @@
       "category": "Novels",
       "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
       "rating": { "rate": 4.7, "count": 140 }
+    },
+    {
+      "id": 5,
+      "title": "Story Book",
+      "price": 160.00,
+      "description": "Nation of love",
+      "category": "Novels",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": { "rate": 4.5, "count": 150 }
     }
   ],
   "profile": {
